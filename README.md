@@ -16,12 +16,12 @@ I find joy in learning game development as a hobby, indulging in reading, and pl
 ![C#](https://img.shields.io/badge/C%23-gray?style=plastic&logo=csharp)
 ![.NET](https://img.shields.io/badge/.NET-gray?style=plastic&logo=.net)
 ![Blazor](https://img.shields.io/badge/Blazor-gray?style=plastic&logo=blazor)
+![React](https://img.shields.io/badge/React-gray?style=plastic&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-gray?style=plastic&logo=typescript)
 ![CSS](https://img.shields.io/badge/CSS-gray?style=plastic&logo=css3)
 ![HTML](https://img.shields.io/badge/HTML-gray?style=plastic&logo=html5)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gray?style=plastic&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-gray?style=plastic&logo=docker)
-![Angular](https://img.shields.io/badge/Angular-gray?style=plastic&logo=angular)
 ![AWS](https://img.shields.io/badge/AWS-gray?style=plastic&logo=amazonaws)
 ![Linux](https://img.shields.io/badge/Linux-gray?style=plastic&logo=linux)
 
