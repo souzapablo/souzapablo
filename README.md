@@ -8,7 +8,7 @@ I find joy in learning game development as a hobby, indulging in reading, and pl
 
 ## Current Focus
 
-🚀 I'm currently developing [CleanSheet](https://github.com/souzapablo/cleansheet), an app to streamline data management for my football simulator game using .NET 8.0 and PostgreSQL.
+🚀 I'm currently developing [CleanSheet](https://github.com/souzapablo/clean-sheet), an app to streamline data management for my football simulator game using .NET 8.0 and PostgreSQL.
 
 ⚙️ Learning the ropes of Blazor to enhance my skill set and explore new avenues in web development.
 
