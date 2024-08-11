@@ -8,21 +8,23 @@ I find joy in learning game development as a hobby, indulging in reading, and pl
 
 ## Current Focus
 
-🚀 I'm currently developing [CleanSheet](https://github.com/souzapablo/clean-sheet), an app to streamline data management for my football simulator game using .NET 8.0 and PostgreSQL.
+🚀 I'm currently developing [CleanSheet](https://github.com/souzapablo/cleansheet), an API to streamline data management for my football simulator game using .NET 8.0 and PostgreSQL.
 
 ⚙️ Learning the ropes of Blazor to enhance my skill set and explore new avenues in web development.
 
 ## Tech Stack 
-![C#](https://img.shields.io/badge/C%23-gray?style=plastic&logo=csharp)
+![C#](https://img.shields.io/badge/C%23-gray?style=plastic)
 ![.NET](https://img.shields.io/badge/.NET-gray?style=plastic&logo=.net)
-![Blazor](https://img.shields.io/badge/Blazor-gray?style=plastic&logo=blazor)
-![React](https://img.shields.io/badge/React-gray?style=plastic&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-gray?style=plastic&logo=typescript)
-![CSS](https://img.shields.io/badge/CSS-gray?style=plastic&logo=css3)
-![HTML](https://img.shields.io/badge/HTML-gray?style=plastic&logo=html5)
+![MongoDB](https://img.shields.io/badge/MongoDB-gray?style=plastic&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-gray?style=plastic&logo=redis)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-gray?style=plastic&logo=amazondynamodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gray?style=plastic&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-gray?style=plastic&logo=microsoft-sql-server)
 ![Docker](https://img.shields.io/badge/Docker-gray?style=plastic&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-gray?style=plastic&logo=amazonaws)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-gray?style=plastic&logo=rabbitmq)
+![Apache Kafka](https://img.shields.io/badge/Kafka-gray?style=plastic&logo=apachekafka)
+![AWS](https://img.shields.io/badge/AWS-gray?style=plastic&logo=amazonwebservices)
 ![Linux](https://img.shields.io/badge/Linux-gray?style=plastic&logo=linux)
 
 ## Goals
